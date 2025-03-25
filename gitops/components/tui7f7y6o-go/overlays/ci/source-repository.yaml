@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tui7f7y6o-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/tui7f7y6o-go
